@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text{
+    color: green;
+    background: yellow;
+    text-align: center;
+    padding: 10px;
+}
+body{
+    background: purple;
+}
+.shrift{
+    background: black;
+color: white;
+width: 550px;
+height: 250px;
+text-align: center;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-left: 70px;
+padding-right: 70px;
+margin: 30px auto;
+border: 5px solid white;
+border-radius: 25px;
+font-size: 20px;
+margin-top: 20px;
+}
+.video{
+    display: block;
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.karta{
+    display: block;
+    margin: auto;
+}

@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.text{
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background:black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.flexbox{
+    width: 650px;
+    height: 650px;
+    margin: 0 auto;
+   background: blue;
+    border-radius: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+body{
+ background: silver;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    font-size: 40px ;
+    border-radius: 25px;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/200px-BMW_logo_%28gray%29.svg.png) ;
+}
+.nomer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ width: 200px;
+ height: 200px; 
+ color: black;
+ font-size: 50px;
+}

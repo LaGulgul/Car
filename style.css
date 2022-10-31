@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+color: red;
+text-align: center;
+background-color: bisque;
+padding: 10px;
+}
+body{
+    background-color: brown;
+}
+.text{
+background: black;
+color: white;
+width: 800px;
+height: 300px;
+text-align: center;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-left: 70px;
+padding-right: 70px;
+margin: 30px auto;
+border: 10px solid white;
+border-radius: 25px;
+font-size: 25px;
+margin-top: 20px;
+
+}
+.silka1{
+text-align: center;
+margin-bottom: 20px;
+margin-top: 20px ;
+font-size: 20px;
+}
+.img{
+ display: block;
+ margin: auto;
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+.silka1{
+    color: black;
+}
+.silka2{
+    color: black;
+}
+.logo{
+display: block;
+margin: auto;
+}
+.logo1{
+ color:black;
+}
+.silka3{
+    color: black;
+padding-left: 70px;
+padding-right: 70px;
+padding-bottom: 30px;
+}
